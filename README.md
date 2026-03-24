@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm ARYA Gopalakrishnan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E91E8C&center=true&vCenter=true&width=600&lines=Data+Science+%7C+ML+%7C+Data+Visualization;Learning+%E2%86%92+Implementing+%E2%86%92+Evolving;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E91E8C&center=true&vCenter=true&width=600&lines=Project+Manager+%7C+Data-Driven+Leader;Bridging+Business+and+Data+Science;Learning+%E2%86%92+Implementing+%E2%86%92+Evolving" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,9 +9,10 @@
 ## 🙋 About Me
 
 - 🌍 Based in **Paris, France**
-- 📊 Passionate about **Data Science**, **Machine Learning**, and **Data Visualization**
+- 💼 **Project Manager** with hands-on experience in data-driven projects
+- 📊 Working with **Data Science**, **Machine Learning**, and **Data Visualization** tools
 - 🌱 Currently in **Beta mode** — Learning → Implementing → Evolving
-- 💼 Check out my portfolio: [aryagopalakrishnan.github.io](https://aryagopalakrishnan.github.io/)
+- 🏠 Check out my portfolio: [aryagopalakrishnan.github.io](https://aryagopalakrishnan.github.io/)
 - 🤝 Open to collaborating on data-driven projects
 
 ---
