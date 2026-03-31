@@ -12,7 +12,6 @@
 - 💼 **Project Manager** with hands-on experience in data-driven projects
 - 📊 Working with **Data Science**, **Machine Learning**, and **Data Visualization** tools
 - 🌱 Currently in **Beta mode** — Learning → Implementing → Evolving
-- 🏠 Check out my portfolio: [aryagopalakrishnan.github.io](https://aryagopalakrishnan.github.io/)
 - 🤝 Open to collaborating on data-driven projects
 
 ---
